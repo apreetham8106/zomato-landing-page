@@ -1,1 +1,1 @@
-# This is landin page
+# This is landing page clone
